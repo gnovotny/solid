@@ -1,5 +1,7 @@
 # @solidjs/babel-plugin
 
+## 2.0.0-rc.21
+
 ## 2.0.0-rc.20
 
 ### Patch Changes

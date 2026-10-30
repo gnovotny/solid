@@ -1,5 +1,17 @@
 # @solidjs/diagnostics
 
+## 2.0.0-rc.21
+
+### Patch Changes
+
+- Updated dependencies [32163a9]
+- Updated dependencies [e56a4a0]
+- Updated dependencies [e56a4a0]
+- Updated dependencies [99d9821]
+  - @solidjs/web@2.0.0-rc.21
+  - @solidjs/signals@2.0.0-rc.21
+  - solid-js@2.0.0-rc.21
+
 ## 2.0.0-rc.20
 
 ### Patch Changes

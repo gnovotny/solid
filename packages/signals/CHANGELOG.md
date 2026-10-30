@@ -1,5 +1,12 @@
 # @solidjs/signals
 
+## 2.0.0-rc.21
+
+### Patch Changes
+
+- e56a4a0: Reader seat S1 M1 (test-only): the shadow seat and slot table (`core/seat.ts`, `__TEST__`) re-baselined against current `next` — the verdict seat (`vhold`), the branch world (`creatorsWorld`) and the owed table rows (V1'' staged error, Vl4', D8, lane rows for a boundary's structure, `fallback`'s bracketed read) modelled, `INV-seat-1` amended per D-27, and a `shadowKnown` allow-list naming the filed `next` bugs (#4426, #4427, #4428, #4429). No change to any build output.
+- e56a4a0: Reader seat shadow (test-only): a new `core/seat.ts` computes the reader seat and slot table beside the existing deciders under `__TEST__`, with the `INV-seat` family recording disagreements for the differential. No change to any build output.
+
 ## 2.0.0-rc.20
 
 ### Patch Changes
